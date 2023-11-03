@@ -1,0 +1,21 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+.main {
+  height: 100%;
+  width: 100%;
+}
+.center_main {
+  height: 500px;
+  width: 300px;
+}
+.center_main input {
+  height: 30px;
+  width: 220px;
+}
+.center_main button {
+  width: 60px;
+  height: 30px;
+}
